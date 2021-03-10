@@ -1,0 +1,26 @@
+{
+    "events": [
+        {
+            "id": 5928101,
+            "category": "riot",
+            "title": "Offend Nobody Day",
+            "description": "Lets do the impossible, offend nobody today!",
+            "location": "City Hall",
+            "date": "May 3, 2022",
+            "time": "12:00pm",
+            "petsAllowed": true,
+            "organizer": "Fu Man Chu"
+        },
+        {
+            "id": 5928102,
+            "category": "workshop",
+            "title": "How to Really Wake Up",
+            "description": "Want to get woke?  Try really waking up.",
+            "location": "Joe's Coffee Shop",
+            "date": "May 27, 2022",
+            "time": "2:00pm-4:00pm",
+            "petsAllowed": true,
+            "organizer": "Walter Williams"
+        }
+    ]
+}
